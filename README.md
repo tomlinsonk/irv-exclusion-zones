@@ -1,5 +1,5 @@
 This repository accompanies the paper:
-> Kiran Tomlinson, Johan Ugander, and Jon Kleinberg. (2025) Exclusion Zones of Instant Runoff Voting.
+> Kiran Tomlinson, Johan Ugander, and Jon Kleinberg. (2025) Exclusion Zones of Instant Runoff Voting. https://arxiv.org/abs/2502.16719
 
 
 ## Files
